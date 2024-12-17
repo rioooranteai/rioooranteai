@@ -40,12 +40,4 @@ Building machine learning algorithms from scratch without ML libraries.
 
 ---
 
-### 🚀 **Let's Connect!**
-
-- **GitHub:** [rioooranteai](https://github.com/rioooranteai)  
-- **LinkedIn:** [Your LinkedIn Profile](#)  
-- **Portfolio:** [Your Portfolio Link](#)  
-
----
-
 ⭐ *Feel free to explore the repositories and leave a star if you find them useful!*
