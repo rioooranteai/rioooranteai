@@ -1,6 +1,6 @@
 # 👋 Welcome to My GitHub Profile!
 
-Hi, I'm [Your Name]! Here are some of my popular repositories, ranging from machine learning to topic modeling and computer vision. Feel free to explore and contribute!
+Hi, I'm Mario Valerian Rante Ta'dung! Here are some of my popular repositories, ranging from machine learning to topic modeling and computer vision. Feel free to explore and contribute!
 
 ---
 
