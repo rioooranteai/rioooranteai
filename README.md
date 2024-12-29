@@ -9,7 +9,3 @@ Hi, I'm Mario Valerian Rante Ta'dung! Here are some of my popular repositories, 
 - **[rioooranteai](https://github.com/rioooranteai)**: Dedicated to AI projects, including machine learning, topic modeling, and computer vision.  
 
 ⭐ *Feel free to explore the repositories and leave a star if you find them useful!*  
-
----
-
-Jika Anda memiliki tambahan atau perubahan lain, beri tahu saya! 😊; saya ingin menambahkaninformasi lain, silahkan tanyakan terlebih dahulu
